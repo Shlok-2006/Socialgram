@@ -1,6 +1,7 @@
 ### Socialgram
 
 This is a frontend web application inspired by Instagram. It is not an exact clone but captures the core concept of a social media platform where users can view posts and see a profile page.
+
 ---
 
 ## 🚀 Features
