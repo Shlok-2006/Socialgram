@@ -1,8 +1,9 @@
-#Socialgram – A Social Media Web Application
+#Socialgram
 
 This is a frontend web application inspired by Instagram. It is not an exact clone but captures the core concept of a social media platform where users can view posts and see a profile page.
+---
 
-🚀 Features
+## 🚀 Features
 
 User Feed Page
 1. Displays posts with images and captions
@@ -15,8 +16,9 @@ Profile Section
 Simple & Lightweight
 1. Built using HTML, CSS, and JavaScript (or React if preferred)
 2. Can be extended with backend integration for real data
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML, CSS, JavaScript
 Styling: CSS (with Flexbox/Grid for layout)
 Icons: Unicons or any free icon library
